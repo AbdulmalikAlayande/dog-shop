@@ -1,6 +1,6 @@
 .env
 env
-venv
+.venv
 temp
 tmp
 __pycache__
